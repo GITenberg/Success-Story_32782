@@ -1,0 +1,34 @@
+_repo: Success-Story_32782
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Freas, Kelly
+    alias: Freas, Frank Kelly
+    birthdate: 1922
+    deathdate: 2005
+    gutenberg_agent_id: '8302'
+    url: http://www.gutenberg.org/2009/agents/8302
+    wikipedia: http://en.wikipedia.org/wiki/Frank_Kelly_Freas
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Turner, Robert
+    gutenberg_agent_id: '36042'
+    url: http://www.gutenberg.org/2009/agents/36042
+description: ''
+gutenberg_issued: '2010-06-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32782'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+title: Success Story
+url: http://www.gutenberg.org/ebooks/32782
